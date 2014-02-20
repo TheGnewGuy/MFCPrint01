@@ -1,0 +1,24 @@
+﻿Build started 2/20/2014 4:25:01 PM.
+     1>Project "C:\Data\Source\Projects\MFCPrinter01\MFCPrinter01\MFCPrinter01.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCPrinter01.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCPrinter01View.cpp
+         MFCPrinter01View.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Data\Source\Projects\MFCPrinter01\Debug\MFCPrinter01.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Data\Source\Projects\MFCPrinter01\Debug\MFCPrinter01.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Data\Source\Projects\MFCPrinter01\Debug\MFCPrinter01.lib" /MACHINE:X86 Debug\MFCPrinter01.res
+         Debug\ChildFrm.obj
+         Debug\ClassView.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\MFCPrinter01.obj
+         Debug\MFCPrinter01Doc.obj
+         Debug\MFCPrinter01View.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\stdafx.obj
+         Debug\ViewTree.obj
+         MFCPrinter01.vcxproj -> C:\Data\Source\Projects\MFCPrinter01\Debug\MFCPrinter01.exe
+     1>Done Building Project "C:\Data\Source\Projects\MFCPrinter01\MFCPrinter01\MFCPrinter01.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.77
